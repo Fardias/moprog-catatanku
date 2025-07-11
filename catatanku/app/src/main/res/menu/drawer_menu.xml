@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+<!--        <item-->
+<!--            android:id="@+id/nav_home"-->
+<!--            android:icon="@drawable/ic_home"-->
+<!--            android:title="Home" />-->
+        <item
+            android:id="@+id/nav_add_note"
+            android:icon="@drawable/ic_add_note"
+            android:title="Add Note" />
+        <item
+            android:id="@+id/nav_edit_profile"
+            android:icon="@drawable/editprofile"
+            android:title="Edit Profile" />
+        <item
+            android:id="@+id/nav_reset_pw"
+            android:icon="@drawable/resetpw"
+            android:title="Reset Password" />
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_logout"
+            android:title="Logout" />
+    </group>
+</menu>

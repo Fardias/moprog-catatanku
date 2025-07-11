@@ -1,0 +1,17 @@
+2025-06-11 15:25:10,455 - INFO - Set permissions for upload folder
+2025-06-11 15:25:10,456 - INFO - Starting Flask application...
+2025-06-11 15:25:10,465 - WARNING -  * Debugger is active!
+2025-06-11 15:25:10,472 - INFO -  * Debugger PIN: 124-155-824
+2025-06-11 15:25:13,377 - INFO -  * Detected change in 'D:\\AndroidStudioProject\\uts-moprog\\catatanku-backend\\app.py', reloading
+2025-06-11 15:25:14,013 - INFO - Set permissions for upload folder
+2025-06-11 15:25:14,014 - INFO - Starting Flask application...
+2025-06-11 15:25:14,024 - WARNING -  * Debugger is active!
+2025-06-11 15:25:14,031 - INFO -  * Debugger PIN: 124-155-824
+2025-06-11 15:25:22,503 - INFO - Fetching note details - ID: 10
+2025-06-11 15:25:22,616 - INFO - Note details fetched successfully - ID: 10
+2025-06-11 15:25:22,618 - INFO - 127.0.0.1 - - [11/Jun/2025 15:25:22] "GET /api/notes/10 HTTP/1.1" 200 -
+2025-06-11 15:25:22,832 - INFO - Fetching image for note ID: 10
+2025-06-11 15:25:22,837 - INFO - Fetching image from path: D:\AndroidStudioProject\uts-moprog\catatanku-backend\Uploads\20250611_151742_image_1749629859223.jpg
+2025-06-11 15:25:22,838 - INFO - Image found, sending file
+2025-06-11 15:25:22,947 - INFO - 127.0.0.1 - - [11/Jun/2025 15:25:22] "GET /api/notes/10/image?t=1749630319861 HTTP/1.1" 200 -
+2025-06-11 15:25:36,759 - INFO -  * Detected change in 'D:\\AndroidStudioProject\\uts-moprog\\catatanku-backend\\app.py', reloading
